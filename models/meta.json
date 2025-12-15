@@ -1,0 +1,12 @@
+{
+  "version": "macroqueue_v1",
+  "embedder_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "thresholds": {
+    "Technical Issues": 0.65,
+    "Billing & Orders": 0.7,
+    "Customer Operations": 0.8,
+    "Internal / HR": 0.75
+  },
+  "min_margin": 0.15,
+  "min_chars": 25
+}
