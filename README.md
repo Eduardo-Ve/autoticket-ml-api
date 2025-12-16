@@ -85,6 +85,7 @@ El servicio carga una canalización TF-IDF + SGDClassifier. En lugar de predicci
   * Si prediction_confidence < umbral: Devuelve la categoría REVIEW para marcar la intervención humana.
 
 ## Proximas metas:
-* mejorar las predicciones del modelo
+* ajustar treshold
 * Implementar el idioma Español para los tickets
 * Agregar el notebook de trabajo como referencia
+* Implementar transformer para comparar
