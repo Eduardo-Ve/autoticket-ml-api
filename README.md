@@ -20,7 +20,6 @@ autoticket-ml-api/
 ├── models/             # Storage for trained .joblib models
 │   ├── category_pipeline.joblib
 │   └── meta.json       # Model metadata and thresholds
-├── schemas/            # Pydantic data models
 └── requirements.txt    # Project dependencies
 ```
 ## pre-requsitos
